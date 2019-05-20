@@ -1,0 +1,34 @@
+.clear-p{
+    padding: 0px;
+}
+
+.clear-m{
+    margin: 0px;
+}
+
+.header{
+    padding: 20px 0px;
+    text-align: center;
+    background-color: #4C9ED9;
+}
+
+.header-text{
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.content{
+    padding: 40px 15px;
+}
+
+.footer{
+    padding: 5px 0px;
+    
+    text-align: center;
+    background-color: #4C9ED9;
+}
+
+.footer-text{
+    color: #ffffff;
+    margin: 0px;
+}

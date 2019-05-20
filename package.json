@@ -1,0 +1,22 @@
+{
+  "name": "healthcare",
+  "version": "1.0.0",
+  "description": "Social Site",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shad48/HealthCare.git"
+  },
+  "author": "Shad",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shad48/HealthCare/issues"
+  },
+  "homepage": "https://github.com/Shad48/HealthCare#readme",
+  "dependencies": {
+    "bootstrap": "^4.3.1"
+  }
+}
